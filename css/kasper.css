@@ -502,6 +502,9 @@ header nav .form i{
         bottom: -60px;
         margin-top: -60px;
     }
+     .about{
+        padding-top: 150px;
+    }
 }
 /* end about section */
 /* start stats */
